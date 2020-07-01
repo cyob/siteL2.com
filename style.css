@@ -1,0 +1,108 @@
+body{
+	background-image:url("images/oliv.jpg");
+	width: auto;
+	height: auto;
+	}
+#textegrace{
+	margin-left: 40%;
+	width: 50%;
+		text-align: justify;
+	padding-right:20px;
+}
+#imagegrace{
+	float: left;
+	width: 40%;
+	height: auto;
+	margin-right: 20px;
+	padding-left: 20px;
+}
+h1{color:aliceblue;
+}
+h2{color:aliceblue;
+}
+h3{color:aliceblue;
+}
+h4{color:aliceblue;
+}
+h5{color:aliceblue;
+}
+p{color:aliceblue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.topnav {
+  background-color: #C7934A;
+  text-align: center;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+nav
+
+.topnav a:hover {
+  background-color: yellow;
+  color: white;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+form {
+  color:white;
+  background-color:transparent;
+  text-decoration: none;
+  text-align:center;
+   width:0%;	
+}
+nav {
+  color:white;
+  background-color:transparent;
+  text-decoration: none;
+}
+div{
+  color:brown;
+  background-color:transparent;
+  text-decoration: none;
+  text-align:center;
+}
+fieldset{
+  background-color:#37353A;
+  text-align:center;
+	label-color: blanc;
+}
+legend{
+  font-weight:bold;
+}
+.champ{
+  margin-bottom: 15px;
+}
+textarea{
+  width: 80%;
+  height: 100px;
+}
+input{
+  width: 200px;
+}
+input[type="radio"], input[type="checkbox"]{
+  width: auto;
+}
+input[type="submit"]{
+  width: 100px;
+}
+.champ a {
+color:#C7934A;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+	
